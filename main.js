@@ -42,11 +42,14 @@ function create_circle(radius) {
 // x.value = 20;
 // y.value = 30;
 
-let number = {value:10};
+let number = {
+  value: 10
+};
 
 function increase(number) {
-    number.value++;
+  number.value++;
 }
 
 increase(number);
+``
 console.log(number);
