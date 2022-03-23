@@ -52,4 +52,4 @@ function increase(number) {
 
 increase(number);
 ``
-console.log(number);
+console.log(number); 
